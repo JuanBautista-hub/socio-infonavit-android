@@ -102,9 +102,6 @@ public class DashboardActivity extends AppCompatActivity {
                     ArrayList<Object> phi = new ArrayList<>();
                     phi.addAll(benevitWallets);
 
-
-
-
                     Log.d("Tag", "Datos" + phi);
                 }
             }
