@@ -8,7 +8,6 @@ import android.widget.GridView;
 import com.google.android.material.navigation.NavigationView;
 import com.socio_infonavit_android.socio_infonavit_android.model.BenevitWallets;
 import com.socio_infonavit_android.socio_infonavit_android.model.Landing_Benevits;
-import com.socio_infonavit_android.socio_infonavit_android.model.Locked;
 import com.socio_infonavit_android.socio_infonavit_android.service.Client;
 import com.socio_infonavit_android.socio_infonavit_android.service.ServiceJWT;
 
@@ -18,7 +17,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import java.util.ArrayList;
-import java.util.Collection;
 
 import retrofit2.Call;
 import retrofit2.Callback;
